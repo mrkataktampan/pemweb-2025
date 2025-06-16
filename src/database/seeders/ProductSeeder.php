@@ -13,9 +13,5 @@ class ProductSeeder extends Seeder
     public function run(): void
     {
         //
-        Product::firstOrCreate([
-            'name' => 'Celana',
-            'price' => 3.0,
-        ]);
     }
 }
