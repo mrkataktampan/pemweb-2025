@@ -13,8 +13,8 @@ Content-Type: {{cType}}
 Accept: {{cType}}
 
 {
-  "name": "Test Name",
-  "description": "Test Description"
+  "name": "Harimau",
+  "Type": "Hewan"
 }
 
 ###
